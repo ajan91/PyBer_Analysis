@@ -3,13 +3,13 @@
 
 Deliverable 1 Requirements
 
-1​The total number of rides for each city type is retrieved. (5 pt)
-2​The total number of drivers for each city type is retrieved. (5 pt)
-3​The sum of the fares for each city type is retrieved. (5 pt)
-4​The average fare per ride for each city type is calculated. (5 pt)
-5​The average fare per driver for each city type is calculated. (5 pt)
-6​A PyBer summary DataFrame is created. (5 pt)
-7​The PyBer summary DataFrame is formatted as shown in the example. (5 pt)
+    1. The total number of rides for each city type is retrieved. (5 pt)
+    2. The total number of drivers for each city type is retrieved. (5 pt)
+    3. The sum of the fares for each city type is retrieved. (5 pt)
+    4. The average fare per ride for each city type is calculated. (5 pt)
+    5. The average fare per driver for each city type is calculated. (5 pt)
+    6. A PyBer summary DataFrame is created. (5 pt)
+    7. The PyBer summary DataFrame is formatted as shown in the example. (5 pt)
 
 
 
