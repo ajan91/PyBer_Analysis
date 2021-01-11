@@ -117,14 +117,15 @@ The following images will illustrate the differences in ride-sharing data among 
 Summary DataFrame Image
 ![](Resources/Photo1_2.png)
 
-
+The suburban fares start around $1000, which shows a potential growth areas if profit is to be made.
+The rural fares start around $200, which shows inconsistency.
+The urban fares start around $1800, which should consistency. 
 Multiple-line chart Image
 ![](Resources/Photo2_2.png)
 
-
+This can be further seen by the mean of the three areas. With urban areas showing a nice borad range with an appropriat mean of aroun 37. The other two areas illustrate that the mean is scewed to the upper range, illustrating inconsistencies with their profitability and growth potential. 
 Scatter Plot chart Image
 ![](Resources/Photo6_2.png)
-
 
 
 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
