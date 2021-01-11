@@ -112,7 +112,35 @@ The following requirements for Deliberable 2 are as follows:
 
 2. Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+The following images will illustrate the differences in ride-sharing data among the different city types.
+
+Summary DataFrame Image
+![](Resources/Photo1_2.png)
+
+
+Multiple-line chart Image
+![](Resources/Photo2_2.png)
+
+
+Scatter Plot chart Image
+![](Resources/Photo6_2.png)
+
+
 
 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
+Based on the results, the following business recommendations can be made to the CEO for addressing the disparities among the city types. 
 
+1. I anticipate more growth in rural and suburban locations if the hiring of new dirivers is implemented.
+
+- This graph illustrates the potential, including mean and range of drivers compared to the current urban centers.
+![](Resources/Photo3_2.png)
+
+- This chart further illustrates the motif of expanding out to rural and surburban locations for drivers. Currently a small percentage in those areas, which should yeild promising opportunites for the buisnees if they wish to expand into them. 
+![](Resources/Photo5_2.png)
+
+2. The graph illustrates the promising adeventure in expanding to suburban areas, since there is a huge demand for rides in the suburban areas when compared to the drivers available in that location (as well as the rural areas). This allows a great source of revenue for the company and could potentially be a steadys stream of income consistency, that is already shown in the urban ride demand as shown below. This could potentially provide the company with two sources of mainstream revenue, if further growth in suburban ares are implemented.
+![](Resources/Photo4_2.png)
+
+3. The graph illustrates the point that fares between the three locations don't traverse, proving the point that if the company decides to expand into the rural and suburban areas, the profit growth would be self-sustaining since there are no competition for fares from the other areas. This leads to a potential independent fare management for the company.
+![](Resources/Photo2_2.png)
