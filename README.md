@@ -96,13 +96,22 @@ Code and Image
 Code and Image
 ![](Resources/Photo5_1.png)
 
+**Deliverable 3: A written report for the PyBer analysis**
+
+The following requirements for Deliberable 2 are as follows:
+
+    Overview of the analysis: Explain the purpose of the new analysis.
+    Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+    Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 **Deliverable 3 Requirements**
 
 1. Overview of the analysis: Explain the purpose of the new analysis.
+
 *please see introduction for the overview of the analysis for this deliberable requirement.*
 
 2. Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
 
 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
