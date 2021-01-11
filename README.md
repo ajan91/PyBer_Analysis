@@ -115,3 +115,4 @@ The following requirements for Deliberable 2 are as follows:
 
 3. Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
+
